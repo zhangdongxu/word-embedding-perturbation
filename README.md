@@ -5,5 +5,5 @@ It also supports basic CNN versions of sentiment classification, relation classi
 First, you need to download 300-dim pretrained word2vec embeddings to this directory
 https://code.google.com/archive/p/word2vec/
 
-All the methods are implemented using Tensorflow.
+All the methods are implemented using Tensorflow v1.0.1.
 
